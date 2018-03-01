@@ -1,0 +1,22 @@
+﻿10 tính năng của ES6 (ECMAScript2015) mọi lập trình Javascript phải biết
+https://techmaster.vn/posts/34069/10-tinh-nang-cua-es6-ecmascript2015-moi-lap-trinh-javascript-phai-biet
+
+Object-Oriented JavaScript — A Deep Dive into ES6 Classes
+https://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/
+
+An overview of what’s new in ES6
+http://exploringjs.com/es6/ch_overviews.html#overview-entry-classes.md
+
+ECMAScript 6 — New Features: Overview & Comparison
+http://es6-features.org/#ClassDefinition
+
+Top 10 ES6 Features Every Busy JavaScript Developer Must Know
+https://webapplog.com/es6/
+
+OOP in the age of ES6
+http://shiroyasha.io/oop-in-the-age-of-es6.html
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+
+Important
+https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes
